@@ -1,0 +1,8 @@
+//
+// Created by ToBy_RedStones on 12/12/2023.
+//
+
+#ifndef PRIMALITYTESTS_FERMATPRIMALITYTEST_H
+#define PRIMALITYTESTS_FERMATPRIMALITYTEST_H
+int fermatPrimalityTest(int n, int by);
+#endif //PRIMALITYTESTS_FERMATPRIMALITYTEST_H
